@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "fQfvaKfudlcUJy7zIOJrChG3hzDyf68hhropwHuG7VwmGAbKjIuBLeIPsz0pGG3KziOz9txZQ/+MEj7WQFT/CQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\e.raoufi\\Desktop\\ShouldlyExtension\\ShouldlyExtension\\ShouldlyExtension.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\e.raoufi\\.nuget\\packages\\diffengine\\10.0.0\\diffengine.10.0.0.nupkg.sha512",
+    "C:\\Users\\e.raoufi\\.nuget\\packages\\emptyfiles\\2.8.0\\emptyfiles.2.8.0.nupkg.sha512",
+    "C:\\Users\\e.raoufi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\e.raoufi\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\e.raoufi\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\e.raoufi\\.nuget\\packages\\shouldly\\4.1.0\\shouldly.4.1.0.nupkg.sha512",
+    "C:\\Users\\e.raoufi\\.nuget\\packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512",
+    "C:\\Users\\e.raoufi\\.nuget\\packages\\system.management\\5.0.0\\system.management.5.0.0.nupkg.sha512",
+    "C:\\Users\\e.raoufi\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\e.raoufi\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
