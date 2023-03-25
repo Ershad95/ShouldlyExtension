@@ -1,5 +1,5 @@
 # ShouldlyExtension
-The code you have provided is a custom extension method for the Shouldly assertion library in .NET applications. This method allows you to assert that two objects have equivalent property values, with the option to include only certain properties in the comparison.
+The code you have provided a custom extension method for the Shouldly assertion library in .NET applications. This method allows you to assert that two objects have equivalent property values, with the option to include only certain properties in the comparison.
 
 ### Overview:
 
